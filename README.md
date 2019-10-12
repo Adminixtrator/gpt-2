@@ -10,6 +10,9 @@ You can read about GPT-2 and release decisions in our [original blog post](https
 
 <sup>*</sup> *Note that our original parameter counts were wrong due to an error (in our previous blog posts and paper).  Thus you may have seen small referred to as 117M and medium referred to as 345M.*
 
+GPT-2, a Transformer-based language model and a successor to GPT, has shown unprecedented performance in language modeling, primarily due to its over an order of magnitude more parameters. While GPT-2’s performance on QA with no task-specific training is embryonic, it indicates that an unsupervised language model could contribute to their performance through fine-tuning.
+    This repo includes an experiment of fine-tuning GPT-2 117M for Question Answering (QA). It also runs the model on Stanford Question Answering Dataset 2.0 (SQuAD). It uses Huggingface Inc.'s PyTorch implementation of GPT-2 and adapts from their fine-tuning of BERT for QA.
+
 ## Usage
 
 This repository is meant to be a starting point for researchers and engineers to experiment with GPT-2.
