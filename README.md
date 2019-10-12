@@ -44,7 +44,9 @@ HNG 6.0 ML Task
     torch>=0.4.1    - PyTorch
     boto3   - Accessing files from S3 directly.
 
+## Colab Notebook
 
+    [Link](https://colab.research.google.com/drive/1LeOsYzxxMXDFiI3CXKgUktGZJ7Bvl2-7#scrollTo=oEQYAQ_8Rv3P)
 
 
 ## License
