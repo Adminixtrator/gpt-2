@@ -7,7 +7,23 @@ GPT-2, a Transformer-based language model and a successor to GPT, has shown unpr
 
 ## Testing
 
-Running each consecutive cells in the GPT-2_With_SQuAD.ipynb notebook, there is function to catch the texts and the model was fine-tuned to produce dsired text lengths. The notebook has been made highly explanatory.
+Open your terminal and clone https://github.com.Adminixtrator/gpt-2.git
+
+Then run these:
+    !python3 download_model.py 345M
+    !export PYTHONIOENCODING=UTF-8
+    
+    #Changing directory..
+    import os
+    os.chdir('src')  #You must be in gpt-2
+    
+    Then install regex #pip install regex
+    
+    and lastly,
+    
+    run Test_GPT2.py 
+    
+    then have FUn..
 
 ## Challenges faced
 
