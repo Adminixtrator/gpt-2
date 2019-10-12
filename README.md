@@ -32,6 +32,18 @@ Please [let us know](mailto:languagequestions@openai.com) if you’re doing inte
 
 HNG 6.0 ML Task
 
+## Requirement
+
+    fire>=0.1.3 - Fire 
+    regex==2017.4.5 - For OpenAI GPT
+    requests==2.21.0    - Used for downloading models over HTTP 
+    tqdm==4.31.1    - progress bars in model download and training scripts
+    torch>=0.4.1    - PyTorch
+    boto3   - Accessing files from S3 directly.
+
+
+
+
 ## License
 
 [MIT](./LICENSE)
