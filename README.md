@@ -32,7 +32,7 @@ Please [let us know](mailto:languagequestions@openai.com) if you’re doing inte
 
 HNG 6.0 ML Task
 
-## Requirement
+## Requirements
 
     fire>=0.1.3 - Fire 
     regex==2017.4.5 - For OpenAI GPT
