@@ -46,7 +46,7 @@ HNG 6.0 ML Task
 
 ## Colab Notebook
 
-    [Link](https://colab.research.google.com/drive/1LeOsYzxxMXDFiI3CXKgUktGZJ7Bvl2-7#scrollTo=oEQYAQ_8Rv3P)
+    [https://colab.research.google.com/drive/1LeOsYzxxMXDFiI3CXKgUktGZJ7Bvl2-7#scrollTo=oEQYAQ_8Rv3P]
 
 
 ## License
