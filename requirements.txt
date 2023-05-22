@@ -1,6 +1,6 @@
 fire>=0.1.3
 regex==2017.4.5	# For OpenAI GPT
-requests==2.21.0	# Used for downloading models over HTTP 
+requests==2.31.0	# Used for downloading models over HTTP 
 tqdm==4.31.1	# progress bars in model download and training scripts
 
 torch>=0.4.1	# PyTorch
